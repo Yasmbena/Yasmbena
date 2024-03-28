@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on some new projects 
 - 📫 How to reach me yasmine.benayad@hotmail.com
 - 😄 Pronouns: she/her 
-- ⚡ Fun fact: i was a swimmimg champion 
+- ⚡ Fun fact: im too sarcastic 
 
 <!---
 Yasmbena/Yasmbena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
