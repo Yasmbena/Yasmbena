@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yasmbena
+- 👋 Hi, I’m @Yasmine
 - 👀 I’m interested in data science and everything related to 
 - 🌱 I’m currently learning Python and coding ML , DL
 - 💞️ I’m looking to collaborate on some new projects 
